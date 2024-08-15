@@ -1,0 +1,8 @@
+.header h1{
+    padding:20px;
+    border-radius: 5px 5px  0 0;
+    text-transform: uppercase;
+    text-align: center;
+    margin:0;
+    background-color: rgb(40, 119, 187);
+}
